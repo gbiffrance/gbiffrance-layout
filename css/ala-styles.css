@@ -647,7 +647,7 @@ ul.contextual-links li a {
     z-index: 100000;
 }
 
-#map { height: 180px; }
+/*#map { height: 180px; }*/
 
 @media (min-width: 768px){
 	.col-sm-8 {
