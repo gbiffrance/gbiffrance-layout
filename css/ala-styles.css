@@ -258,7 +258,7 @@ ul li {
     padding-right: 25px;
 }
 
-.breadcrumb {
+/*.breadcrumb {
     background-color: transparent;
     font-size: 80%;
     margin-bottom: 10px;
@@ -303,7 +303,7 @@ ul li {
 .breadcrumb > li > .divider {
     color: #ccc;
     padding: 0 3px;
-}
+}*/
 
 /* LIENS */
 
